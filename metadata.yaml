@@ -1,0 +1,31 @@
+_repo: Miss-Harriet_57012
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tuura, Timo
+    gutenberg_agent_id: '46998'
+    url: http://www.gutenberg.org/2009/agents/46998
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2018-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57012'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Miss Harriet
+url: http://www.gutenberg.org/ebooks/57012
